@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/distance_calculation" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
